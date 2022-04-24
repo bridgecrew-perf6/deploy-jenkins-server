@@ -8,6 +8,7 @@
 `--admin-username jenkins \`  
 `--generate-ssh-keys \`  
 `--size Standard_B1ls `  
+[check vm sku here](https://azureprice.net/)  
 
 `az vm open-port --resource-group vmjenkins --name jenkinsserver --port 8080 --priority 1001`  
 
