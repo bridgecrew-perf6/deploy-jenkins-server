@@ -22,7 +22,7 @@ get the public i.p of the VM
 
 `sudo yum install git` 
 
-Using your browser, go to <PublicIP:8080>
+Using your browser, go to <PublicIP:8080>  
 Should see the following screenshot  
 Select install selected plugins  
 Create first admin user  
